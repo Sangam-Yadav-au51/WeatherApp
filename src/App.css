@@ -1,0 +1,30 @@
+.weatherBg{
+  background: url("https://cdn.wallpapersafari.com/4/90/Hb38VD.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.heading{
+  color: white;
+  font-weight: 700;
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.wetherIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.wetherCity{
+  font-size: 35px;
+  
+}
+.wetherTemp{
+  font-size: 55px;
+  font-weight: 700;
+}
